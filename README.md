@@ -1,2 +1,2 @@
 # PersonalWebsiteResume
-This is a personal website about me in the theme of LOTR and Dark fantasy
+This is a personal website about me in a dark blue Bloomberg style.
